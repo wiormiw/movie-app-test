@@ -1,9 +1,3 @@
-<style>
-  .red {
-    color: #f00;
-  }
-</style>
-
 <template>
   <div>
     <h1 class="red">{{msg}}</h1>
@@ -26,3 +20,9 @@ export default {
   }
 }
 </script>
+
+<style>
+  .red {
+    color: #f00;
+  }
+</style>
