@@ -1,5 +1,5 @@
 (function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
-var __vueify_style_dispose__ = require("vueify/lib/insert-css").insert(".app {\n  font-family: 'Helvetica', 'Arial', sans-serif;\n}")
+var __vueify_style_dispose__ = require("vueify/lib/insert-css").insert(".app {\n  font-family: 'Open Sans', Helvetica, Arial, sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  text-align: center;\n  color: #2c3e50;\n/*   margin-top: 60px; */\n}")
 ;(function(){
 "use strict";
 
@@ -17,7 +17,7 @@ exports.default = {
   name: "App",
   data: function data() {
     return {
-      msg: 'Hi'
+      msg: 'Hello from Vue App'
     };
   },
   components: {
@@ -46,15 +46,15 @@ if (module.hot) {(function () {  var hotAPI = require("vue-hot-reload-api")
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
-	value: true
+  value: true
 });
 exports.default = {
-	name: "Component",
-	data: function data() {
-		return {
-			msg: 'Hello from VueJS Component!'
-		};
-	}
+  name: "Component",
+  data: function data() {
+    return {
+      msg: "Hello from Vue Component"
+    };
+  }
 };
 })()
 if (module.exports.__esModule) module.exports = module.exports.default

@@ -7,16 +7,13 @@
 </template>
 
 <script>
-
 export default {
   name: "Component",
-	data: () => ({
-    msg: 'Hello from Vue Component'
-  }),
-	}
-}
+  data: () => ({
+    msg: "Hello from Vue Component"
+  })
+};
 </script>
 
 <style>
-
 </style>
