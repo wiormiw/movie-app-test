@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="red">{{msg}}</h1>
-    <button @click="test">lol {{num}}</button>
+    <button @click="test">Count {{num}}</button>
   </div>
 </template>
 
@@ -9,7 +9,7 @@
 export default {
   data () {
     return {
-      msg: 'Hello world',
+      msg: 'Hello worlds!',
       num: 0
     }
   },
