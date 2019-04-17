@@ -9,7 +9,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = {
   data: function data() {
     return {
-      msg: 'Hello world!',
+      msg: 'Hello world',
       num: 0
     };
   },
