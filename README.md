@@ -46,7 +46,8 @@ Feel free to also download the project and work on it in localhost if you prefer
 # Code Submission
 
 1. Within Glitch, go to `Tools` > `Import and Export` > `Download Project`
-2. Upload your code to a GitHub repository and email the GitHub repository URL (provide access to `eric@pi-xcels.com` if it's private)
+2. 
+3. 
 
 *Don't bother trying to email the code directly, because the email attachment will be blocked.*
 
