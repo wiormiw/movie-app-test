@@ -46,7 +46,8 @@ Feel free to also download the project and work on it in localhost if you prefer
 # Code Submission
 
 1. Within Glitch, go to `Tools` > `Import and Export` > `Download Project`
-2. Upload the project archive to [transfernow](https://www.transfernow.net/en) or [wetransfer](https://wetransfer.com/) and send it to `eric@pi-xcels.com`
+2. If you have a Google account, submit the zipped project file at https://docs.google.com/forms/d/e/1FAIpQLSeZeh6YLhfKZwL179XkNJxXa4zvkPlCfJK6ep73pMd5fGo-tA/viewform?usp=dialog
+3. Else, upload the project archive to [transfernow](https://www.transfernow.net/en) or [wetransfer](https://wetransfer.com/) and send it to `tech-hiring@pi-xcels.com`
 
 *Do not email the code directly, because the email attachment will likely be marked as a malicious attachment.*
 
