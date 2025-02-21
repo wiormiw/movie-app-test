@@ -1,10 +1,10 @@
 ***Important note***:
 
-This assignment is meant to be completed within **a maximum of 2 hours**.
+This assessment is meant to be completed within **a maximum of 2 hours**.
 
-Just attempt this assignment, and submit your code before **2 hours** is up, regardless of whether it is fully completed.
+Just attempt this assessment, and submit your code before **2 hours** is up, regardless of whether it is fully completed.
 
-You may provide **additional documentation** on how you would continue with this assignment if you were given more time.
+You may provide **additional documentation** on how you would continue with this assessment if you were given more time.
 
 # Overview
 
@@ -19,7 +19,7 @@ Feel free to also download the project and work on it in localhost if you prefer
 # Steps
 
 1. Within Glitch, click on `Remix to Edit` to start own forked version of the code
-2. Start editing code within Glitch to complete this assignment
+2. Start editing code within Glitch to complete this assessment
 
 # Details
 
