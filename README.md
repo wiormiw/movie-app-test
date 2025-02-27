@@ -47,7 +47,7 @@ Feel free to also download the project and work on it in localhost if you prefer
 
 1. Within Glitch, go to `Tools` > `Import and Export` > `Download Project`
 2. If you are not using Glitch, compress your project into a zip file without the `node_modules` folder
-3. Submit the project zip file at https://docs.google.com/forms/d/e/1FAIpQLSeZeh6YLhfKZwL179XkNJxXa4zvkPlCfJK6ep73pMd5fGo-tA/viewform?usp=dialog
+3. Submit the project zip file with the submission form provided in the email
 
 # Further Project Details (Optional)
 
