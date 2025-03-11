@@ -1,9 +1,10 @@
-var Vue = require('vue')
-var App = require('./app.vue')
+import Vue from 'vue/dist/vue.common';
+import VueRouter from 'vue-router';
+import router from './router';
+
+Vue.use(VueRouter);
 
 new Vue({
-  el: '#app',
-  render: createElement => {
-    return createElement(App)
-  }
-})
+  router,
+  render: h => h('router-view')
+}).$mount('#app');
