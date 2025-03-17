@@ -1,7 +1,7 @@
 ***If i given more time i would***
 
 - Make sure all the feature work seamlessly
-- Rebase the app using different build, because it's confusing, because right now, even though i created correct component it won't displayed correctly (as i mainly works as backend engineer, so i didn't know much about fe).
+- Rebase the app using different build, because it's confusing
 - Add proper error handling middleware in Express
 - Implement input validation for API endpoints
 - Add unit tests using Jest
